@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marisabel Rodriguez
+===========================================================================================================================================
+
+Front end programmer and web designer
+-------------------------------------
+
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 <!--
 **chabemry/chabemry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
